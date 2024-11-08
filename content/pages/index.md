@@ -8,10 +8,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: What’s Unique?
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      <div style="text-align: left">Our platform automates key business
+      processes like content creation, email
+      marketing, WhatsApp broadcasting,
+      affiliate management, ecommerce
+      integration, lead generation, and feedback
+      collection. It helps streamline operations,
+      boost customer engagement, and grow
+      revenue, all with minimal manual effort.
+
+      </div>
+
     actions:
       - label: Get started
         altText: ''
