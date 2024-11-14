@@ -72,10 +72,9 @@ sections:
       - type: FeaturedItem
         title: Marketing Automations and Leads generations
         subtitle: ' '
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Get best in class Marketing campaign and leads generation services
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
