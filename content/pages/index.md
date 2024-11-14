@@ -126,10 +126,10 @@ sections:
         type: FeaturedItem
       - title: Scalability
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          As your business grows, our solutions are designed to adapt and scale,
+          supporting you at every stage.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
