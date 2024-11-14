@@ -98,7 +98,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Customer Feedback Automation
-        subtitle: The Job Stuff
+        subtitle: ''
         text: |+
           Collect feedback though our crowdsourced feedback loops
 
