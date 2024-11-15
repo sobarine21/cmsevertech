@@ -315,7 +315,7 @@ sections:
       text: Custom Web App
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Deploys in record time
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
