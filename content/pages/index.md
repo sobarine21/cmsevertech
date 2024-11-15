@@ -312,7 +312,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Custom Webapplication
+      text: Custom Web App
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
