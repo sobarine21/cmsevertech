@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Scale and grow faster than.Ever
+      text: Scale faster than.Ever
       color: text-dark
       type: TitleBlock
     subtitle: What’s Unique?
