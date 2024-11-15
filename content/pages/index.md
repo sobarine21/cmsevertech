@@ -239,7 +239,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Most unique in the industry
     text: >+
       We specialize in creating personalized Email campaigns for the client
       centric needs
